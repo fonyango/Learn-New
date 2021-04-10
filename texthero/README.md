@@ -5,6 +5,8 @@ Texthero provides an easy and simple way to preprocess text data in pandas data 
 This folder contains the following:
 
 -- notebooks: __preprocessing.ipynb__ - This is a notebook with python code that provides a step by step guide on how to use texthero for preprocessing.
+              __visualization.ipynb__ - Jupyter notebook that contains visualizations using texthero.
+              __texthero_colab.ipynb__ - Contains scatterplot visualization.
 
 -- data: __Youtube02-KatyPerry.csv__ - Is the dataset I have used for the demo. The dataset contains youtube reviews. 
 
